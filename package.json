@@ -1,0 +1,29 @@
+{
+  "name": "url-shorten-microserv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "cors": "^2.8.5",
+    "config": "^3.2.3",
+    "mongoose": "^5.7.11",
+    "shortid": "^2.2.15",
+    "valid-url": "^1.0.9"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/mattygersh21/url-shorten-microserv"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}

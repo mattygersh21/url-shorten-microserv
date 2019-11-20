@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://mattygersh:Anewpass777@cluster0-txb4h.gcp.mongodb.net/test?retryWrites=true&w=majority",
+  "baseUrl": "https://url-shorten-microserv.glitch.me"
+}
